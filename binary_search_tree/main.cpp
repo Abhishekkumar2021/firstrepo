@@ -130,5 +130,7 @@ int main()
         insertelement(element,top);
     }
     print(top);
+for(int i=0; i<10; i++)
+  printf("Having fun");
     return 0;
 }
