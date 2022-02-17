@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629990406 source:c:\users\ahmad\documents\c++\arrayadt\main.c
+	<stdio.h>
+	<stdlib.h>
+

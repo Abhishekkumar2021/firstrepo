@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1639631655 source:c:\users\ahmad\documents\c++\assgn2b_21ae10035\assa3.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1639631877 source:c:\users\ahmad\documents\c++\assgn2b_21ae10035\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

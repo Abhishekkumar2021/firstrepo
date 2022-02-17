@@ -1,0 +1,12 @@
+button{
+    background-color: aqua;
+}
+button:hover {
+    border-radius: 10%;
+    color:aliceblue;
+}
+img{
+    border: 5px solid rgb(24, 13, 13);
+    height: 50%;
+    width: 45%;
+}

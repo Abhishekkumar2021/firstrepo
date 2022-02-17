@@ -1,0 +1,6 @@
+For question 1 run the command make on terminal then it will ask everything by command itself
+
+for question 2 run the file it will create an archive file 
+
+for question 3 run the command perl file_name then it will ask for line and now put any line int that incorrect words should be from the inputfileforq3.txt for only those words 
+there will be correct suggestions so please put words from this file only
